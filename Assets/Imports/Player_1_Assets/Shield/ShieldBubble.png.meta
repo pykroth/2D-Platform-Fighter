@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 8c00e6bb27af31e478e6c59766226dbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5925315414357570975
+    second: ShieldBubble_0
+  - first:
+      213: -7419632669015667875
+    second: ShieldBubble_1
+  - first:
+      213: 9018763026168505402
+    second: ShieldBubble_Player
+  - first:
+      213: -6355343863903696528
+    second: ShieldBubble_3
+  - first:
+      213: -4579315659915969198
+    second: ShieldBubble_4
+  - first:
+      213: -8709835510538438745
+    second: ShieldBubble_5
+  - first:
+      213: -2921991972389437703
+    second: ShieldBubble_6
+  - first:
+      213: -4532471713322622542
+    second: ShieldBubble_7
+  - first:
+      213: 8629078805345615054
+    second: ShieldBubble_8
+  - first:
+      213: 4334340519240153094
+    second: ShieldBubble_9
+  - first:
+      213: 1459383471748484276
+    second: ShieldBubble_10
+  - first:
+      213: 5564111219286385159
+    second: ShieldBubble_11
+  - first:
+      213: 3431391872554968562
+    second: ShieldBubble_12
+  - first:
+      213: 5785046948832482653
+    second: ShieldBubble_13
+  - first:
+      213: 7023522711015529959
+    second: ShieldBubble_14
+  - first:
+      213: 5235914459102479710
+    second: ShieldBubble_15
+  - first:
+      213: 7879951562842818313
+    second: ShieldBubble_16
+  - first:
+      213: -2737129847420552321
+    second: ShieldBubble_17
+  - first:
+      213: -5032745485350109983
+    second: ShieldBubble_18
+  - first:
+      213: 466184077411319456
+    second: ShieldBubble_19
+  - first:
+      213: -5528041958426455441
+    second: ShieldBubble_20
+  - first:
+      213: -5145844084139807253
+    second: ShieldBubble_21
+  - first:
+      213: 3543156997141073088
+    second: ShieldBubble_22
+  - first:
+      213: 5106277234331449940
+    second: ShieldBubble_23
+  - first:
+      213: 4899646132797558799
+    second: ShieldBubble_24
+  - first:
+      213: 38746309930829158
+    second: ShieldBubble_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShieldBubble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95fde6c9f2fa3250800000000000000
+      internalID: 5925315414357570975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 252
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b007ff56b280990800000000000000
+      internalID: -7419632669015667875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_Player
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 252
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 68, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3463385035192d70800000000000000
+      internalID: 9018763026168505402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079cf868d684dc7a0800000000000000
+      internalID: -6355343863903696528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 188
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d33586ba00370c0800000000000000
+      internalID: -4579315659915969198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 188
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7f546ffb2702780800000000000000
+      internalID: -8709835510538438745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3f2158cff277d0800000000000000
+      internalID: -2921991972389437703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 124
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b126e4adfc6911c0800000000000000
+      internalID: -4532471713322622542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 124
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3a736475a0c770800000000000000
+      internalID: 8629078805345615054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60834e8ecbba62c30800000000000000
+      internalID: 4334340519240153094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 60
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc05a01985c04410800000000000000
+      internalID: 1459383471748484276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBubble_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 60
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a45c8ca1b73d40800000000000000
+      internalID: 5564111219286385159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShieldBubble_9: 4334340519240153094
+      ShieldBubble_8: 8629078805345615054
+      ShieldBubble_11: 5564111219286385159
+      ShieldBubble_Player: 9018763026168505402
+      ShieldBubble_5: -8709835510538438745
+      ShieldBubble_6: -2921991972389437703
+      ShieldBubble_4: -4579315659915969198
+      ShieldBubble_10: 1459383471748484276
+      ShieldBubble_0: 5925315414357570975
+      ShieldBubble_1: -7419632669015667875
+      ShieldBubble_7: -4532471713322622542
+      ShieldBubble_3: -6355343863903696528
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
